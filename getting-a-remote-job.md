@@ -1,5 +1,16 @@
 ---
 description: All the information based on my experience with remote jobs
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Getting a remote job
