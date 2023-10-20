@@ -1,10 +1,14 @@
 ---
 description: Welcome to the ocean of information that I have been digging for you.
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
