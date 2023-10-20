@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Hello from Naga](README.md)
-* [Get a remote job quickly](get-a-remote-job-quickly.md)
+* [Home](README.md)
+* [Getting a remote job](getting-a-remote-job.md)
+* [Getting a full-time job with relocation](getting-a-full-time-job-with-relocation.md)
