@@ -2,9 +2,20 @@
 description: >-
   All the information I could gather regarding how to relocate to your favourite
   country with a full-time job.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# Getting a full-time job with relocation
+# 🛫 Getting a full-time job with relocation
 
 <details>
 

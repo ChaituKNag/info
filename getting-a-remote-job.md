@@ -8,12 +8,12 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
 
-# Getting a remote job
+# 💻 Getting a remote job
 
 <details>
 
